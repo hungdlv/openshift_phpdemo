@@ -1,2 +1,2 @@
 <?php
-echo "Server1 is running....";
+echo "Server2 is running....";
